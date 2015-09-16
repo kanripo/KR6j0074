@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 都部陀羅尼目
+#+DATE: 2015-08-30 20:25:29.865461
+#+PROPERTY: JUAN 0
